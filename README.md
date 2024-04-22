@@ -1,7 +1,7 @@
 ---
-title: "UAVM 2023"
+title: "UAVM 2024"
 collection: pages
-permalink: /ACMMM2023Workshop
+permalink: /ACMMM2024Workshop
 author_profile: false
 ---
 
@@ -10,18 +10,18 @@ author_profile: false
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <img src="https://www.acmmm2023.org/wp-content/uploads/2022/12/cropped-cropped-sigmmlogo-1.gif" margn-right="20px" ><a href="https://www.acmmm2023.org/"> ACM MM 2023 </a><a href="https://www.acmmm2023.org/">(https://www.acmmm2023.org/)</a>  </h2>
+  <h2> <img src="https://www.acmmm2023.org/wp-content/uploads/2022/12/cropped-cropped-sigmmlogo-1.gif" margn-right="20px" ><a href="https://www.acmmm2024.org/"> ACM MM 2024 </a><a href="https://www.acmmm2024.org/">(https://www.acmmm2024.org/)</a>  </h2>
  </div>
  
  <div align='center' > 
   <h2> Workshop on </h2>
-  <h2> UAVs in Multimedia: Capturing the World from a New Perspective (UAVM 2023)
+  <h2> UAVs in Multimedia: Capturing the World from a New Perspective (UAVM 2024)
 </h2>
  <img src="https://github.com/layumi/ACMMM2023Workshop/blob/main/picture/logo.png?raw=true" >
 </div>
 
 <meta name="og:image" content="https://github.com/layumi/ACMMM2023Workshop/blob/main/picture/logo.png?raw=true">
-<meta name="og:description" content="UAVs in Multimedia: Capturing the World from a New Perspective (UAVM 2023)"> 
+<meta name="og:description" content="UAVs in Multimedia: Capturing the World from a New Perspective (UAVM 2024)"> 
 
 The accept papers will be published at ACM Multimedia Workshop (top 50%), and go through the same peer review process as the regular papers. Several authors will be invited to do a oral presentation. 
 
@@ -32,74 +32,30 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants) for important updates.
 
 ## News 
-- 28/10/2023 - All proceeding papers can be found at [ACM Website](https://dl.acm.org/doi/proceedings/10.1145/3607834)
-- 15/7/2023 - Challenge Open-source Code.
+- 25/7/2023 - Challenge Open-source Code.
 - 23/4/2023 - Challenge Platform is now available.
-- 7/4/2023 - Paper submission site is now available.
-- 6/4/2023 - CFP is released.
-- 6/4/2023 - Workshop homepage is now available.
+- 23/4/2023 - Paper submission site is now available.
+- 22/4/2023 - CFP is released.
+- 22/4/2023 - Workshop homepage is now available.
 
 ## Workshop Schedule
-
- 2 Nov 9:30~10:30am (GMT-4)  Nathan Jacobs (Washington University in St. Louis)  (Last 10 minutes will be QA)
-
-The talk slides can be found at [[link]](https://www.zdzheng.xyz/files/Talk-Nathan-Jacobs.pdf).
-  
- 2 Nov 10:30~11:30am (GMT-4) Rakesh Kumar (SRI International)  (Last 10 minutes will be QA) 
-
-The talk slides can be found at [[link]](https://www.zdzheng.xyz/files/Kumar%20Keynote%20ACM%20MM%20UAV%20MM%20workshop%202023.pdf).
  
- 2 Nov 11:30~11:45am break
+ 11:30~11:45am break
  
- 2 Nov 11:45~12:00am (GMT-4) Challenge 1st-place Winner 
+ 11:45~12:00am (GMT-4) Challenge 1st-place Winner 
  
- 2 Nov 12:00~12:15am (GMT-4) Challenge 2nd-place Winner 
+ 12:00~12:15am (GMT-4) Challenge 2nd-place Winner 
  
- 2 Nov 12:15~12:30am (GMT-4) Challenge 3rd-place Winner 
-
-## Invited Speakers
-
-| <img src="https://jacobsn.github.io/images/nathan_jacobs.jpg" width="160"> |<img src="https://www.sri.com/wp-content/uploads/2021/10/Kumar-Web-Portrait-191126-400x400-1-e1636493948651.jpg" width="160"> | 
-| :-: | :-: |
-|  [Nathan Jacobs](https://jacobsn.github.io/), Washington University in St. Louis | [Rakesh Kumar](https://www.sri.com/about/people/rakesh-teddy-kumar), SRI International |  
-
-
-**Talk: Learning to Map Anything, Anywhere, Anytime** ([Nathan Jacobs](https://jacobsn.github.io/))
- 
-Abstract: What might it sound like here? How would you describe this place? Would it be unusual to see a large mammal if I took an early morning walk? These are all questions that are inherently spatial in nature and difficult to answer precisely. This talk explores a new approach to multi-modal remote sensing that shows how we might build a system that supports answering such questions at a global scale, enabling us to understand the Earth with a level of semantic, spatial, and temporal resolution that was previously impossible.
-
-Bio：Nathan Jacobs earned a Ph.D. in Computer Science at Washington University in St. Louis (2010). After many years at the University of Kentucky, he is currently a Professor in the Computer Science & Engineering department at Washington University in St. Louis. Dr. Jacobs' research area is computer vision; his specialty is developing learning-based algorithms and systems for processing large-scale image collections. His current focus is on developing techniques for mining information about people and the natural world from geotagged imagery, including images from social networks, publicly available outdoor webcams, and satellites. His research has been funded by NSF, NIH, DARPA, IARPA, NGA, ARL, AFRL, and Google.
-
-
-**Talk：Semantically Guided Collaborative Navigation, 3D Mapping, Planning and Control for Unmanned Platforms** ([Rakesh Kumar](https://www.sri.com/about/people/rakesh-teddy-kumar))
-
-Abstract：Classical metric navigation systems use GPS and/ or prior 2D and 3D maps for localization of unmanned platforms. However, these systems do not operate n in GPS challenged or denied environments. Metric map-based navigation systems are also not robust to dynamic scene changes. In this talk, we will describe various methods we have developed to incorporate AI derived semantic information into metric navigation for both ground and aerial robots using data from multiple sensors. Compared to low-level metric features, semantic information is more robust to scene changes over time and can be matched across time/space/platforms. We will also discuss how 3D reference semantic maps can be built.
-Sharing semantic information also reduces bandwidth required for collaboration. Moreover, it enables natural language interaction between humans and mobile platforms. Finally, we will discuss how the semantic information can be used by robots to learn to navigate in unmapped areas much like humans are able to visit and navigate in new, never visited before locales. Our new approach, SayNav, leverages common-sense knowledge from Large Language Models (LLMs) for efficient generalization to complicated navigation tasks in unknown large-scale environments.
-
-Bio：Rakesh “Teddy” Kumar, Ph.D., is Vice President, Information and Computing Sciences and Director of the Center for Vision Technologies at SRI International. In this role, he is responsible for leading research and development of innovative end-to-end vision solutions from image capture to situational understanding that translate into real-world applications such as robotics, intelligence extraction and human computer interaction. He has received the Outstanding Achievement in Technology Development award from his alma mater, University of Massachusetts Amherst, the Sarnoff Presidents Award, and Sarnoff Technical Achievement awards for his work in registration of multi-sensor, multi-dimensional medical images and alignment of video to three-dimensional scene models. The paper “Stable Vision-Aided Navigation for Large-Area Augmented Reality” co-authored by him received the best paper award in the IEEE Virtual Reality 2011 conference. The paper “Augmented Reality Binoculars” co-authored by him received the best paper award in the IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2013 conference. 
-Kumar has served on NSF review and DARPA ISAT panels. He has also been an associate editor for IEEE Transactions on Pattern Analysis and Machine Intelligence. He has co-authored more than 60 research publications, and received more than 50 patents. A number of spin-off companies have been created based on the research done at the Center for Vision Technologies. Kumar received his Ph.D. in Computer Science from the University of Massachusetts at Amherst in 1992. His M.S. in Electrical and Computer Engineering is from State University of New York at Buffalo in 1995, and his B.Tech in Electrical Engineering is from Indian Institute of Technology, Kanpur, India in 1983.
-
-
-
-## Winners
-1. **Fabian Deuser<sup>1</sup>, Konrad Habel1, Martin Werner<sup>2</sup>, Norbert Oswald<sup>1</sup>** (<sup>1</sup>University of the Bundeswehr Munich, <sup>2</sup>Technische Universität München)
-
-2. **Zhifeng Lin<sup>1,2</sup>, Ranran Huang<sup>1</sup>, Jiancheng Cai<sup>1</sup>, Xinmin Liu<sup>1</sup>, Changxing Ding<sup>2</sup>, Zhenhua Chai<sup>1</sup>** (<sup>1</sup>Meituan, <sup>2</sup>South China University of Technology)
-
-3. **Haoran Li, Quan Chen, Zhiwen Yang, Jiong Yin** (Hangzhou Dianzi University)
-
-
-## Challenge Open-source Codes
-Please check [https://github.com/layumi/UAVM2023](https://github.com/layumi/UAVM2023) 
+ 12:15~12:30am (GMT-4) Challenge 3rd-place Winner 
 
 ## Important Dates
 
 **Submission of papers:**
-* Workshop Papers Submission: ~~5 July 2023~~ 13 July 2023
-* Workshop Papers Notification: 30 July 2023
-* Student Travel Grants Application Deadline: 5 August 2023 
-* Camera-ready Submission: 6 August 2023
-* Conference Dates: 28 October 2023 – 3 November 2023
+* Workshop Papers Submission: 5 July 2024
+* Workshop Papers Notification: 30 July 2024
+* Student Travel Grants Application Deadline: 5 August 2024 
+* Camera-ready Submission: 6 August 2024
+* Conference Dates: 28 October 2024 – 3 November 2024
 
 Please note: The submission deadline is at 11:59 p.m. of the stated deadline date [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
@@ -188,21 +144,21 @@ It will be 37855 lines.
 
 ## Conference and Journal Papers
 
-All papers presented at ACMMM 2023 will be included in ACM proceeding. All papers submitted to this workshop will go through the same review process as the regular papers submitted to the main conference to ensure that the contributions are of high quality. 
+All papers presented at ACMMM 2024 will be included in ACM proceeding. All papers submitted to this workshop will go through the same review process as the regular papers submitted to the main conference to ensure that the contributions are of high quality. 
 
 
 ## Student Traval Funding
 
 Please check https://www.acmmm2023.org/student-travel-grants/
 
-Application Deadline: August 5, 2023
+Application Deadline: August 5, 2024
 
 ## Workshop Citation
 ```bibtex
-@inproceedings{zheng2023UVA,
+@inproceedings{zheng2024UVA,
   title={UAVM '23: 2023 Workshop on UAVs in Multimedia: Capturing the World from a New Perspective},
   author={Zheng, Zhedong and Shi, Yujiao and Wang, Tingyu and Liu, Jun and Fang, Jianwu and Wei, Yunchao and Chua, Tat-seng},
   booktitle={Proceedings of the 31th ACM International Conference on Multimedia Workshop},
-  year={2023}
+  year={2024}
 }  
 ```
