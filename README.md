@@ -1,7 +1,7 @@
 ---
 title: "UAVM 2024"
 collection: pages
-permalink: /ACMMM2024Workshop
+permalink: /ACMMM2024Workshop-UAV
 author_profile: false
 ---
 
