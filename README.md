@@ -154,9 +154,9 @@ Please check https://2024.acmmm.org/
 ## Workshop Citation
 ```bibtex
 @inproceedings{zheng2024UVA,
-  title={UAVM '24: 2024 Workshop on UAVs in Multimedia: Capturing the World from a New Perspective},
+  title={The 2nd Workshop on UAVs in Multimedia: Capturing the World from a New Perspective},
   author={Zheng, Zhedong and Shi, Yujiao and Wang, Tingyu and Liu, Jun and Fang, Jianwu and Wei, Yunchao and Chua, Tat-seng},
-  booktitle={Proceedings of the 32th ACM International Conference on Multimedia Workshop},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia Workshop},
   year={2024}
 }  
 ```
