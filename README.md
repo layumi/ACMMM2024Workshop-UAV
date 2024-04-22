@@ -32,11 +32,11 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants) for important updates.
 
 ## News 
-- 25/7/2023 - Challenge Open-source Code.
-- 23/4/2023 - Challenge Platform is now available.
-- 23/4/2023 - Paper submission site is now available.
-- 22/4/2023 - CFP is released.
-- 22/4/2023 - Workshop homepage is now available.
+- 25/7/2024 - Challenge Open-source Code.
+- 23/4/2024 - Challenge Platform is now available.
+- 23/4/2024 - Paper submission site is now available.
+- 22/4/2024 - CFP is released.
+- 22/4/2024 - Workshop homepage is now available.
 
 ## Workshop Schedule
  
@@ -154,9 +154,9 @@ Please check https://2024.acmmm.org/
 ## Workshop Citation
 ```bibtex
 @inproceedings{zheng2024UVA,
-  title={UAVM '23: 2023 Workshop on UAVs in Multimedia: Capturing the World from a New Perspective},
+  title={UAVM '24: 2024 Workshop on UAVs in Multimedia: Capturing the World from a New Perspective},
   author={Zheng, Zhedong and Shi, Yujiao and Wang, Tingyu and Liu, Jun and Fang, Jianwu and Wei, Yunchao and Chua, Tat-seng},
-  booktitle={Proceedings of the 31th ACM International Conference on Multimedia Workshop},
+  booktitle={Proceedings of the 32th ACM International Conference on Multimedia Workshop},
   year={2024}
 }  
 ```
