@@ -55,7 +55,7 @@ Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants
 * Workshop Papers Notification: 30 July 2024
 * Student Travel Grants Application Deadline: 5 August 2024 
 * Camera-ready Submission: 6 August 2024
-* Conference Dates: 28 October 2024 – 3 November 2024
+* Conference Dates: 28 October 2024 – 1 November 2024
 
 Please note: The submission deadline is at 11:59 p.m. of the stated deadline date [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
