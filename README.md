@@ -10,7 +10,7 @@ author_profile: false
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <img src="https://www.acmmm2023.org/wp-content/uploads/2022/12/cropped-cropped-sigmmlogo-1.gif" margn-right="20px" ><a href="https://www.acmmm2024.org/"> ACM MM 2024 </a><a href="https://www.acmmm2024.org/">(https://www.acmmm2024.org/)</a>  </h2>
+  <h2> <img src="https://2024.acmmm.org/img/mm_logo_nobg.9dc2d630.png" margn-right="20px" ><a href="https://2024.acmmm.org/"> ACM MM 2024 </a><a href="https://2024.acmmm.org/">(https://2024.acmmm.org/)</a>  </h2>
  </div>
  
  <div align='center' > 
@@ -149,9 +149,7 @@ All papers presented at ACMMM 2024 will be included in ACM proceeding. All paper
 
 ## Student Traval Funding
 
-Please check https://www.acmmm2023.org/student-travel-grants/
-
-Application Deadline: August 5, 2024
+Please check https://2024.acmmm.org/
 
 ## Workshop Citation
 ```bibtex
