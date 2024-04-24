@@ -26,7 +26,7 @@ author_profile: false
 The accept papers will be published at ACM Multimedia Workshop (top 50%), and go through the same peer review process as the regular papers. Several authors will be invited to do a oral presentation. 
 
 [[Accepted Workshop Proposal]](https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf)
-[[Submission Site]](https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/UAVs_in_Multimedia)
+[[Submission Site]](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/UAVM)
 
 
 Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants) for important updates.
@@ -96,10 +96,10 @@ Submission template can be found at [ACM](https://www.acm.org/publications/proce
 
 In this workshop, we welcome four types of submissions, all of which should relate to the topics and themes as listed in Section 3: 
 
-- (1). Position or perspective papers (**up to 4 pages in length, plus unlimited pages for references**): original ideas, perspectives, research vision, and open challenges in the area of evaluation approaches for explainable recommender systems; 
-- (2). Challenge papers (**up to 4 pages in length, plus unlimited pages for references**): original solution to the Challenge data, University160k, in terms of effectiveness and efficiency. 
+- (1). Position or perspective papers (**up to 4 pages in length, plus 2 pages for references**): original ideas, perspectives, research vision, and open challenges in the area of evaluation approaches for explainable recommender systems; 
+- (2). Challenge papers (**up to 4 pages in length, plus 2 pages for references**): original solution to the Challenge data, University160k, in terms of effectiveness and efficiency. 
 - (3). Featured papers (title and abstract of the paper, plus the original paper): already published papers or papers summarizing existing publications in leading conferences and highimpact journals that are relevant for the topic of the workshop; 
-- (4). Demonstration papers (**up to 2 pages in length, plus unlimited pages for references**): original or already published prototypes and operational evaluation approaches in the area of explainable recommender systems. Page limits include diagrams and appendices. Submissions should be single-blind, written in English, and formatted according to the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website (use “sigconf” proceedings template for LaTeX and the Interim Template for Word).
+- (4). Demonstration papers (**up to 2 pages in length, plus 2 pages for references**): original or already published prototypes and operational evaluation approaches in the area of explainable recommender systems. Page limits include diagrams and appendices. Submissions should be single-blind, written in English, and formatted according to the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website (use “sigconf” proceedings template for LaTeX and the Interim Template for Word).
 
 **Tips:**
 - For privacy protection, please blur faces in the published materials (such as paper, video, poster, etc.) 
