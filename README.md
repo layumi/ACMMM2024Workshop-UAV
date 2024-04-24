@@ -28,9 +28,6 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 [[Accepted Workshop Proposal]](https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf)
 [[Submission Site]](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/UAVM)
 
-
-Join our [Google Group](https://groups.google.com/g/acmmm-uvas-2023-participants) for important updates.
-
 ## News 
 - 25/7/2024 - Challenge Open-source Code.
 - 23/4/2024 - Challenge Platform is now available.
@@ -90,7 +87,7 @@ Overall, this workshop will provide a unique opportunity to explore the exciting
 
 ## Submission Types
 
-Paper can be submitted on [[Open Review]](https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/UAVs_in_Multimedia).
+Paper can be submitted on [[Open Review]](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/UAVM).
 
 Submission template can be found at [ACM](https://www.acm.org/publications/proceedings-template) or you may directly follow the [overleaf template](https://www.overleaf.com/read/yfpxtyngmzjn).
 
