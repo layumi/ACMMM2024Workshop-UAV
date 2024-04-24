@@ -25,7 +25,7 @@ author_profile: false
 
 The accept papers will be published at ACM Multimedia Workshop (top 50%), and go through the same peer review process as the regular papers. Several authors will be invited to do a oral presentation. 
 
-[[Accepted Workshop Proposal]](https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf)
+[[Accepted Workshop Proposal]](https://zdzheng.xyz/files/MM24_Workshop_Proposal_Drone.pdf)
 [[Submission Site]](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/UAVM)
 
 ## News 
@@ -107,14 +107,21 @@ In this workshop, we welcome four types of submissions, all of which should rela
 
 Challenge Platform is at https://codalab.lisn.upsaclay.fr/competitions/12672 . 
 
-We also provide a challenging cross-view geo-localization dataset, called University160k, and the workshop audience may consider to participate the competition. The motivation is to simulate the real- world geo-localization scenario that we usually face an extremely large satellite-view pool. In particular, University160k extends the current University-1652 dataset with extra 167,486 satellite- view gallery distractors. We will release University160k on our website, and make a public leader board. These distractor satellite- view images have a size of 1024 × 1024 and are obtained by cutting orthophoto images of real urban and surrounding areas. The larger image size ensures higher image clarity, while the wider framing range allows the images to contain more diverse scenes, such as buildings, city roads, trees, fields, and more (see Figure 3). In our primary evaluation, the distractor is challenging and make the competitive baseline model, LPN, decrease the Recall@1 accuracy from 75.93% to 64.85% and the value of AP from 79.14% to 67.69% in the Drone → Satellite task (Please see Table 2). We hope more audiences can be involved to solve this challenge, and may also consider the efficiency problem against a large candidate pool.
+We also provide a multi-weather cross-view geo-localization dataset, called University160k-WX, and the workshop audience may consider to participate in the competition. The motivation is to simulate the real-world geo-localization scenario. 
+In particular, University160k extends the current University-1652 dataset with extra 167,486 satellite-view gallery distractors. 
+University160k-WX further introduces weather variants on University160k, including fog, rain, snow and multiple weather compositions.
+We will release University160k-WX on our website, and make a public leader board. 
+These distractor satellite-view images have a size of $1024 \times 1024$ and are obtained by cutting orthophoto images of real urban and surrounding areas.
+Multiple weathers are randomly sampled to increase the difficulty of representation learning. 
+In our primary evaluation, the distractor is challenging and makes the competitive baseline model, LPN, decrease the Recall@1 accuracy from $75.93\%$ to $64.85\%$ and the value of AP from $79.14\%$ to $67.69\%$ in the Drone $\rightarrow$ Satellite task. If we further introduce extreme weather, the performance further drops from $64.85\%$ to $7.94\%$. 
+We hope more audiences can be involved to solve this challenge, and consider the robustness problem against extreme weather.  
 
-Check challenge details at Section 5 in [https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf](https://zdzheng.xyz/files/ACMMM23_Workshop_Drone.pdf)
+Check challenge details at Section 5 in [https://zdzheng.xyz/files/MM24_Workshop_Proposal_Drone.pdf](https://zdzheng.xyz/files/MM24_Workshop_Proposal_Drone.pdf)
 
 The challenge dataset contains two part.
 1. The basic dataset (training set) can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. 
 
-2. The name-masked test-160k dataset (query & gallery+distractor) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/EhWkk5hLBfBPpknm0sSPDiAB_SJZdJaXqTU1zRp19APDYQ?e=ummz0M).
+2. The name-masked test-160k-WX dataset (query & gallery+distractor) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/EhWkk5hLBfBPpknm0sSPDiAB_SJZdJaXqTU1zRp19APDYQ?e=ummz0M).
 
 (In the future, you also can download the name-unmasked distractor dataset to quiclyt report number in your paper (Please add to satellite gallery) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:u:/g/personal/wongtyu_hdu_edu_cn/EY4gu3JwWO9IkAp707N7wT0BkQOXFi-ZSDGnWkG9bad1_A?e=hodpkb), [Google Drive](https://drive.google.com/file/d/1kYUBJazF0gqs2UQD46PvvJgnMVlJMPEs/view),
 or Baidu Disk(https://pan.baidu.com/s/15TDqJIkEVv2r1fWlLQFLPw Code:78xf).)
