@@ -104,7 +104,7 @@ In this workshop, we welcome four types of submissions, all of which should rela
 
 ## Challenge
 
-** Challenge Platform is at https://codalab.lisn.upsaclay.fr/competitions/18770 . **
+**Challenge Platform is at https://codalab.lisn.upsaclay.fr/competitions/18770 .**
 
 We also provide a multi-weather cross-view geo-localization dataset, called University160k-WX, and welcome your participation in the competition. The motivation is to simulate the real-world geo-localization scenario. 
 In particular, University160k extends the current University-1652 dataset with extra 167,486 satellite-view gallery distractors. 
