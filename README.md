@@ -1,4 +1,4 @@
----
+![image](https://github.com/layumi/ACMMM2024Workshop-UAV/assets/8390471/34c74db9-2c2c-45b2-a9ed-151de9a0a93f)---
 title: "UAVM 2024"
 collection: pages
 permalink: /ACMMM2024Workshop-UAV
@@ -136,7 +136,7 @@ It will be 37855 lines.
 
 | <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160"> |<img src="https://yujiaoshi.github.io/images/YujiaoShiCircle.jpg" width="160"> |<img src="https://github.com/wtyhub/Photo/blob/a713229943f0628ffb82556bc9e396bbfabe8567/1%20inch.jpg?raw=true" width="160"> |
 | :-: | :-: | :-: |
-|  [Zhedong Zheng](https://zdzheng.xyz), National University of Singapore, Singapore | [Yujiao Shi](https://yujiaoshi.github.io/), Australian National University, Australia | [Tingyu Wang](https://scholar.google.com/citations?user=wv3H-F4AAAAJ), Hangzhou Dianzi University, China |
+|  [Zhedong Zheng](https://zdzheng.xyz), National University of Singapore, Singapore | [Yujiao Shi](https://yujiaoshi.github.io/), ShanghaiTech University, China | [Tingyu Wang](https://scholar.google.com/citations?user=wv3H-F4AAAAJ), Hangzhou Dianzi University, China |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT__SOfspAhkPnw92bKFTX-g1FZcUMDYSuqPNTKtYulSw&s" width="160"> |  <img src="https://media.licdn.com/dms/image/D5603AQHq1FnQjYQH3g/profile-displayphoto-shrink_800_800/0/1703335806714?e=2147483647&v=beta&t=MMXjtt4dizU3fDxDsKGGLsAtuyJoUib3xn28NE1SulI" width="160"> | <img src="https://github.com/layumi/ACMMM2024Workshop-UAV/assets/8390471/812a43a1-b4fe-48f7-9a83-9e31ca861a75" width="160"> | 
 |  [Chen Chen](https://www.crcv.ucf.edu/chenchen/), University of Central Florida, USA |  [Pengfei Zhu](https://cic.tju.edu.cn/faculty/zhupengfei/index.html), Tianjing University, China |  [Richard Hartley](https://users.cecs.anu.edu.au/~hartley/), Australian National University, Australia | 
 
