@@ -124,9 +124,9 @@ The challenge dataset contains two part.
 2. The name-masked test-160k-WX dataset (query & gallery+distractor) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/EoP7u9rymIxMrv_s3Im-vvQBX8PQ_4v1xzXolMfyKmINkw?e=N8vpum).
 Since only drone will meet weather conditions, we only simulate weather on drone-view queries. 
 
-The submission example can be found at [Baseline Submission](https://github.com/wtyhub/ACMMM2024Workshop/blob/main/answer.txt). Please zip it as ``answer.zip'' to submit the result.
+The submission example can be found at [Baseline Submission](https://github.com/wtyhub/ACMMM2024Workshop/blob/main/answer.txt). Please zip it as `answer.zip` to submit the result.
 
-Please return the top-10 satellite names. For example, the first query is ``Q3JI2tUwDkhcfip.jpeg''. Therefore, the first line of returned result in ``answer.txt'' should be the format as follows:
+Please return the top-10 satellite names. For example, the first query is `Q3JI2tUwDkhcfip.jpeg`. Therefore, the first line of returned result in `answer.txt` should be the format as follows:
 ```
 e6kXgz36E8nOY2n       ioqKwvSIYYhiW2v       y4VmQPUYOMD8AH4       kpZ2QJlNBHMnbRA       xffJQs2n9DP17fg       IejrFHLQYBfce2y       cH79t5WJMEMZ3VA       W9u0j4N1nlFbI97       zDurtAW4FTJfNJ3       MuvIMNVdofmaRqG
 ```
