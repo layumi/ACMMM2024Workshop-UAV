@@ -121,18 +121,16 @@ Check challenge details at Section 5 in [https://zdzheng.xyz/files/MM24_Workshop
 The challenge dataset contains two part.
 1. The basic dataset (training set) can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. 
 
-2. The name-masked test-160k-WX dataset (query & gallery+distractor) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/EhWkk5hLBfBPpknm0sSPDiAB_SJZdJaXqTU1zRp19APDYQ?e=ummz0M).
+2. The name-masked test-160k-WX dataset (query & gallery+distractor) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/EoP7u9rymIxMrv_s3Im-vvQBX8PQ_4v1xzXolMfyKmINkw?e=N8vpum).
 
-(In the future, you also can download the name-unmasked distractor dataset to quiclyt report number in your paper (Please add to satellite gallery) can be downloaded from [Onedrive](https://hdueducn-my.sharepoint.com/:u:/g/personal/wongtyu_hdu_edu_cn/EY4gu3JwWO9IkAp707N7wT0BkQOXFi-ZSDGnWkG9bad1_A?e=hodpkb), [Google Drive](https://drive.google.com/file/d/1kYUBJazF0gqs2UQD46PvvJgnMVlJMPEs/view),
-or Baidu Disk(https://pan.baidu.com/s/15TDqJIkEVv2r1fWlLQFLPw Code:78xf).)
 
-The submission example can be found at [Baseline Submission](https://github.com/layumi/ACMMM2023Workshop/blob/main/answer.txt). Please zip it as ``answer.zip'' to submit the result.
+The submission example can be found at [Baseline Submission](https://github.com/wtyhub/ACMMM2024Workshop/blob/main/answer.txt). Please zip it as ``answer.zip'' to submit the result.
 
 Please return the top-10 satellite names. For example, the first query is ``Y2HVQvCQIwVmwzq.jpeg''. Therefore, the first line of returned result in ``answer.txt'' should be the format as follows:
 ```
 LJMJGM5vTQM3iRy	ValP4k9neTZffLz	Co1CEWkBhHdTAM2	w2Nk6LrN5p2cF54	FuMp6XdwlRqScG2	4WVhVPBkr8TJTNJ	y7XiwY8lWpMZNar	AQZgRYUIyvpUnz8	bziEPp56rwI7e7E	qI9WAxrCnbaqjIq
 ```
-Please return the result following the order of query at [Query TXT](https://github.com/layumi/ACMMM2023Workshop/blob/main/query_drone_name.txt)
+Please return the result following the order of query at [Query TXT](https://github.com/wtyhub/ACMMM2024Workshop/blob/main/query_drone_name.txt)
 It will be 37855 lines.
 
 ## Organizing Team
