@@ -1,4 +1,4 @@
-![image](https://github.com/layumi/ACMMM2024Workshop-UAV/assets/8390471/34c74db9-2c2c-45b2-a9ed-151de9a0a93f)---
+---
 title: "UAVM 2024"
 collection: pages
 permalink: /ACMMM2024Workshop-UAV
