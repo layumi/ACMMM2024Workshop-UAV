@@ -132,6 +132,10 @@ e6kXgz36E8nOY2n       ioqKwvSIYYhiW2v       y4VmQPUYOMD8AH4       kpZ2QJlNBHMnbR
 Please return the result following the order of query at [Query TXT](https://github.com/wtyhub/ACMMM2024Workshop/blob/main/query_drone_name.txt)
 It will be 37855 lines.
 
+## Related Papers 
+- Wang, T., Zheng, Z., Sun, Y., Yan, C., Yang, Y., & Chua, T. S. (2024). Multiple-environment Self-adaptive Network for Aerial-view Geo-localization. Pattern Recognition, 152, 110363.
+- Zheng, Z., Wei, Y., & Yang, Y. (2020, October). University-1652: A multi-view multi-source benchmark for drone-based geo-localization. In Proceedings of the 28th ACM international conference on Multimedia (pp. 1395-1403).
+
 ## Organizing Team
 
 | <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160"> |<img src="https://yujiaoshi.github.io/images/YujiaoShiCircle.jpg" width="160"> |<img src="https://github.com/wtyhub/Photo/blob/a713229943f0628ffb82556bc9e396bbfabe8567/1%20inch.jpg?raw=true" width="160"> |
