@@ -10,14 +10,14 @@ author_profile: false
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <img src="https://2024.acmmm.org/img/mm_logo_nobg.9dc2d630.png" margn-right="20px" ><a href="https://2024.acmmm.org/"> ACM MM 2024 </a><a href="https://2024.acmmm.org/">(https://2024.acmmm.org/)</a>  </h2>
+  <h2> <img src="https://2024.acmmm.org/img/mm_logo_nobg.9dc2d630.png" margn-right="20px" alt="ACM Multimedia conference 2024" ><a href="https://2024.acmmm.org/"> ACM MM 2024 </a><a href="https://2024.acmmm.org/">(https://2024.acmmm.org/)</a>  </h2>
  </div>
  
  <div align='center' > 
   <h2> Workshop on </h2>
   <h2> UAVs in Multimedia: Capturing the World from a New Perspective (UAVM 2024)
 </h2>
- <img src="https://github.com/layumi/ACMMM2023Workshop/blob/main/picture/logo.png?raw=true" >
+ <img src="https://github.com/layumi/ACMMM2023Workshop/blob/main/picture/logo.png?raw=true" alt="workshop logo">
 </div>
 
 <meta name="og:image" content="https://github.com/layumi/ACMMM2023Workshop/blob/main/picture/logo.png?raw=true">
