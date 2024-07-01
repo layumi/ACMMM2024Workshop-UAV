@@ -51,7 +51,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 ## Important Dates
 
 **Submission of papers:**
-* Workshop Papers Submission: 5 July 2024
+* Workshop Papers Submission: ~~5 July 2024~~ 7 July 2024
 * Workshop Papers Notification: 30 July 2024
 * Student Travel Grants Application Deadline: 5 August 2024 
 * Camera-ready Submission: 6 August 2024
