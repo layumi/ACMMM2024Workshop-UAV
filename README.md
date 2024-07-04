@@ -96,9 +96,9 @@ Submission template can be found at [ACM](https://www.acm.org/publications/proce
 
 In this workshop, we welcome four types of submissions, all of which should relate to the topics and themes as listed in Section 3: 
 
-- (1). Position or perspective papers (**up to 4 pages in length, plus 2 pages for references**): original ideas, perspectives, research vision, and open challenges in the area of evaluation approaches for explainable recommender systems; 
-- (2). Challenge papers (**up to 4 pages in length, plus 2 pages for references**): original solution to the Challenge data, University160k, in terms of effectiveness and efficiency. 
-- (3). Demonstration papers (**up to 2 pages in length, plus 2 pages for references**): original or already published prototypes and operational evaluation approaches in the area of explainable recommender systems. Page limits include diagrams and appendices. Submissions should be single-blind, written in English, and formatted according to the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website (use “sigconf” proceedings template for LaTeX and the Interim Template for Word).
+- (1). Position or perspective papers (**up to 4 pages in length, plus 1 pages for references**): original ideas, perspectives, research vision, and open challenges in the area of evaluation approaches for explainable recommender systems; 
+- (2). Challenge papers (**up to 4 pages in length, plus 1 pages for references**): original solution to the Challenge data, University160k, in terms of effectiveness and efficiency. 
+- (3). Demonstration papers (**up to 4 pages in length, plus 1 pages for references**): original or already published prototypes and operational evaluation approaches in the area of explainable recommender systems. Page limits include diagrams and appendices. Submissions should be single-blind, written in English, and formatted according to the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website (use “sigconf” proceedings template for LaTeX and the Interim Template for Word).
 
 **Tips:**
 - For privacy protection, please blur faces in the published materials (such as paper, video, poster, etc.) 
