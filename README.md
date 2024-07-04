@@ -93,6 +93,7 @@ Overall, this workshop will provide a unique opportunity to explore the exciting
 Paper can be submitted on [[Open Review]](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/UAVM).
 
 Submission template can be found at [ACM](https://www.acm.org/publications/proceedings-template) or you may directly follow the [overleaf template](https://www.overleaf.com/read/yfpxtyngmzjn).
+**We recommend the single-blind (showing your name and affilliation) for fast processing, but double-blind papers are also acceptable. We will ensure the fairness.**
 
 In this workshop, we welcome four types of submissions, all of which should relate to the topics and themes as listed in Section 3: 
 
