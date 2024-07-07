@@ -138,9 +138,9 @@ Please return the result following the order of query at [Query TXT](https://git
 It will be 37855 lines.
 
 ## Related Papers 
-- Wang, T., Zheng, Z., Sun, Y., Yan, C., Yang, Y., & Chua, T. S. (2024). Multiple-environment Self-adaptive Network for Aerial-view Geo-localization. Pattern Recognition, 152, 110363.
-- Zheng, Z., Wei, Y., & Yang, Y. (2020, October). University-1652: A multi-view multi-source benchmark for drone-based geo-localization. In Proceedings of the 28th ACM international conference on Multimedia (pp. 1395-1403).
-- Wang, C., Zheng, Z., Quan, R., Sun, Y., & Yang, Y. (2023). Context-aware pretraining for efficient blind image decomposition. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 18186-18195).
+- Wang, T., Zheng, Z., Sun, Y., Yan, C., Yang, Y., & Chua, T. S. (2024). [Multiple-environment Self-adaptive Network for Aerial-view Geo-localization](https://zdzheng.xyz/files/PR2024-Wang.pdf). Pattern Recognition, 152, 110363.
+- Zheng, Z., Wei, Y., & Yang, Y. (2020, October). [University-1652: A multi-view multi-source benchmark for drone-based geo-localization](https://zdzheng.xyz/files/ACMMM20.pdf). In Proceedings of the 28th ACM international conference on Multimedia (pp. 1395-1403).
+- Wang, C., Zheng, Z., Quan, R., Sun, Y., & Yang, Y. (2023). [Context-aware pretraining for efficient blind image decomposition](https://zdzheng.xyz/files/CVPR2023-Wang.pdf). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 18186-18195).
 
 ## Organizing Team
 
