@@ -32,7 +32,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 [[Submission Site]](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/UAVM)
 
 ## News 
-- 25/7/2024 - Challenge Open-source Code.
+- 15/8/2024 - Challenge Open-source Code (https://github.com/wtyhub/UAVM2024).
 - 23/4/2024 - Challenge Platform is now available.
 - 23/4/2024 - Paper submission site is now available.
 - 22/4/2024 - CFP is released.
