@@ -40,6 +40,10 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 - 22/4/2024 - Workshop homepage is now available.
 
 ## Workshop Schedule
+
+ 9:30~10:30am Invited Talk from Prof. Julian Kooi (Last 10 minutes will be QA)
+
+ 10:30~11:30am Invited Talk from Prof. Qinfeng Shi (Last 10 minutes will be QA)
  
  11:30~11:45am break
  
