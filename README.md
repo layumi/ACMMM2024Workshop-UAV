@@ -43,11 +43,32 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
  
  11:30~11:45am break
  
- 11:45~12:00am (GMT-4) Challenge 1st-place Winner 
+ 11:45~12:00am (GMT+10) Challenge 1st-place Winner 
  
- 12:00~12:15am (GMT-4) Challenge 2nd-place Winner 
+ 12:00~12:15am (GMT+10) Challenge 2nd-place Winner 
  
- 12:15~12:30am (GMT-4) Challenge 3rd-place Winner 
+ 12:15~12:30am (GMT+10) Challenge 3rd-place Winner 
+
+## Invited Speakers
+
+| <img src="https://jkooij.github.io/files/jkooij_profile_resized.jpg" width="160"> |<img src="https://media.licdn.com/dms/image/C5603AQF817FfLhFVWQ/profile-displayphoto-shrink_200_200/0/1581047535435?e=2147483647&v=beta&t=tkzp02CZFlkO5BXs2n31p7GOVQ45poF9q7BzxXRSGNU" width="160"> | 
+| :-: | :-: |
+|  [Julian Kooij](https://jkooij.github.io/), TU Delft | [Qinfeng Shi](https://cs.adelaide.edu.au/~javen/), University of Adelaide |  
+
+
+**Talk: Vehicle localization without SLAM: Finding your camera’s pose in an aerial image** ([Julian Kooi](https://jkooij.github.io/))
+ 
+Abstract: Accurately locating a robotic vehicle with respect to a map is a key requirement for highly automated driving. While GNSS can provide precise positional information, it is often unreliable and inaccurate in urban environments where buildings block satellite reception (“urban canyons”). This talk discusses a vision-based alternative to determine the pose of a vehicle directly from its camera images. Ideally, such localization can improve the rough localization estimates from GNSS in a manner that accurately scales to large areas without the need for expensive Visual-SLAM. Instead, the emerging field of “fine-grained cross-view localization” develops methods that compare the vehicle’s camera images to easily obtained aerial imagery to estimate its location and viewing direction. I will discuss two deep learning techniques that we proposed for this task: Convolution Cross-View Pose Estimation (T-PAMI’23) and SliceMatch (CVPR’23). These supervised techniques rely on labelled training data, i.e. camera images with known highly accurate pose information, but this can be hard to obtain exactly because GNSS is often unreliable. Our most recent work aims to address this limitation by unsupervised adaptation of an already trained cross-view localization method to the images from a new area, only requiring that their location information is sufficient to pick the correct aerial image patch rather than defining the exact vehicle pose (ECCV’24).
+
+Bio：Julian Kooij is an Associate Professor at the Intelligent Vehicles group, performing research on multi-sensor vehicle perception for autonomous driving. The group is part of the Cognitive Robotics (CoR) department of the 3ME Faculty.
+His research interests include computer vision, 3D object detection by vision/lidar/radar and acoustic, visual localization, semantic environment understanding, and trajectory forecasting for Vulnerable Road User (VRU) behavior. His team develops novel techniques using deep learning, including representation learning and self-supervised approaches, statistical machine learning and probabilistic inference.
+
+
+**Talk： Causal AI: The Way of Change in the Age of AI** ([Qinfeng Shi](https://cs.adelaide.edu.au/~javen/))
+
+Abstract：Our world is undergoing inevitable and tumultuous changes. Causality, operating beneath the veneer of cause and effect, is essentially the way of change. This talk will show how causal AI can identify the root causes, discover latent variables, build immunity against spurious correlations, improve generalisation to diverse domains and distribution shifts, model the consequence of interventions, and answer What-If counterfactual questions. More importantly, causal AI holds the key to answer the reverse question: What is the ideal sequence of interventions, given resources or budgets, to optimise future outcomes? Join us for an exploration of the transformative role of Causal AI in understanding and navigating the complexities of a rapidly changing world in the age of AI.
+
+Bio： Professor Javen Qinfeng Shi is the Founding Director of Causal AI Group at the University of Adelaide, and one of the directors at Australian Institute for Machine Learning (AIML). His research interests include Causation, AI, mind and metaphysics. Google Scholar ranks him 7th globally in Probabilistic Graphical Models, and 4th in Causation. He served as a Panelist for the Responsible AI Think Tank from 2022 to 2024 and currently holds the position of an AI Industry Forum Panelist from 2024 onward, actively contributing to the cultivation of the national and state AI ecosystem. He has transferred his research to diverse industries including material discovery, agriculture, mining, sport, manufacturing, bushfire, health and education. Recent awards include: 1) 1st place at Open Catalyst Challenge at NeurIPS AI for Science 2023, using AI to discover energy material; 2) Won AUS/NZ Bushfire Data Quest 2020 using AI to predict fire spread, which led to winning a Citizen Science Grant in 2021, and released a bushfire app NOBURN in 2023 (over 50 media coverages); 3) Finalist of SA Department of Energy and Mining’s Gawler Challenge 2020 (over 2k participants from 100+ countries) with his team’s work being considered as “The most innovative modelling” by the judge panel; 4) 2nd place in Explorer Challenge 2019 (over 1k entries from 62 countries); 5) 1st place at SAIC Volkswagen’s Logistics Innovation Day for Smart Manufacturing 2019. 
 
 ## Important Dates
 
