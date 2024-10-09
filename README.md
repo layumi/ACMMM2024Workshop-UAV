@@ -39,7 +39,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 - 22/4/2024 - CFP is released.
 - 22/4/2024 - Workshop homepage is now available.
 
-## Workshop Schedule
+## Workshop Schedule (GMT+11) 
 
  9:30~10:30am Invited Talk from Prof. Julian Kooi (Last 10 minutes will be QA)
 
@@ -47,11 +47,11 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
  
  11:30~11:45am break
  
- 11:45~12:00pm (GMT+10) Challenge 1st-place Winner 
+ 11:45~12:00pm Challenge 1st-place Winner 
  
- 12:00~12:15pm (GMT+10) Challenge 2nd-place Winner 
+ 12:00~12:15pm Challenge 2nd-place Winner 
  
- 12:15~12:30pm (GMT+10) Challenge 3rd-place Winner 
+ 12:15~12:30pm Challenge 3rd-place Winner 
 
 ## Invited Speakers
 
