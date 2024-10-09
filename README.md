@@ -47,11 +47,11 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
  
  11:30~11:45am break
  
- 11:45~12:00am (GMT+10) Challenge 1st-place Winner 
+ 11:45~12:00pm (GMT+10) Challenge 1st-place Winner 
  
- 12:00~12:15am (GMT+10) Challenge 2nd-place Winner 
+ 12:00~12:15pm (GMT+10) Challenge 2nd-place Winner 
  
- 12:15~12:30am (GMT+10) Challenge 3rd-place Winner 
+ 12:15~12:30pm (GMT+10) Challenge 3rd-place Winner 
 
 ## Invited Speakers
 
@@ -68,7 +68,7 @@ Bio：Julian Kooij is an Associate Professor at the Intelligent Vehicles group, 
 His research interests include computer vision, 3D object detection by vision/lidar/radar and acoustic, visual localization, semantic environment understanding, and trajectory forecasting for Vulnerable Road User (VRU) behavior. His team develops novel techniques using deep learning, including representation learning and self-supervised approaches, statistical machine learning and probabilistic inference.
 
 
-**Talk： Causal AI: The Way of Change in the Age of AI** ([Qinfeng Shi](https://cs.adelaide.edu.au/~javen/))
+**Talk： Causal AI: The Way of Change in the Age of AI** ([Javen Qinfeng Shi](https://cs.adelaide.edu.au/~javen/))
 
 Abstract：Our world is undergoing inevitable and tumultuous changes. Causality, operating beneath the veneer of cause and effect, is essentially the way of change. This talk will show how causal AI can identify the root causes, discover latent variables, build immunity against spurious correlations, improve generalisation to diverse domains and distribution shifts, model the consequence of interventions, and answer What-If counterfactual questions. More importantly, causal AI holds the key to answer the reverse question: What is the ideal sequence of interventions, given resources or budgets, to optimise future outcomes? Join us for an exploration of the transformative role of Causal AI in understanding and navigating the complexities of a rapidly changing world in the age of AI.
 
