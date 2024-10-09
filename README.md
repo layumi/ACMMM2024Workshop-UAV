@@ -43,7 +43,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
  9:30~10:30am Invited Talk from Prof. Julian Kooi (Last 10 minutes will be QA)
 
- 10:30~11:30am Invited Talk from Prof. Qinfeng Shi (Last 10 minutes will be QA)
+ 10:30~11:30am Invited Talk from Prof. Javen Qinfeng Shi (Last 10 minutes will be QA)
  
  11:30~11:45am break
  
@@ -57,7 +57,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 | <img src="https://jkooij.github.io/files/jkooij_profile_resized.jpg" width="160"> |<img src="https://media.licdn.com/dms/image/C5603AQF817FfLhFVWQ/profile-displayphoto-shrink_200_200/0/1581047535435?e=2147483647&v=beta&t=tkzp02CZFlkO5BXs2n31p7GOVQ45poF9q7BzxXRSGNU" width="160"> | 
 | :-: | :-: |
-|  [Julian Kooij](https://jkooij.github.io/), TU Delft | [Qinfeng Shi](https://cs.adelaide.edu.au/~javen/), University of Adelaide |  
+|  [Julian Kooij](https://jkooij.github.io/), TU Delft | [Javen Qinfeng Shi](https://cs.adelaide.edu.au/~javen/), University of Adelaide |  
 
 
 **Talk: Vehicle localization without SLAM: Finding your camera’s pose in an aerial image** ([Julian Kooi](https://jkooij.github.io/))
