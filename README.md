@@ -39,7 +39,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 - 22/4/2024 - CFP is released.
 - 22/4/2024 - Workshop homepage is now available.
 
-## Workshop Schedule (GMT+11) 
+## Workshop Schedule (GMT+11, 1/11/2024) 
 
  9:30~10:30am Invited Talk from Prof. Julian Kooi (Last 10 minutes will be QA)
 
