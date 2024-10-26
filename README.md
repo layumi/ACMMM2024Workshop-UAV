@@ -31,8 +31,11 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 [[Accepted Workshop Proposal]](https://zdzheng.xyz/files/MM24_Workshop_Proposal_Drone.pdf)
 [[Submission Site]](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/UAVM)
 [[Previous UAVM 2023]](https://www.zdzheng.xyz/ACMMM2023Workshop/)
+[[Proceeding Workshop Papers]](https://dl.acm.org/doi/proceedings/10.1145/3689095)
+[[Challenge Code Collection]](https://github.com/wtyhub/UAVM2024)
 
 ## News 
+- 26/10/2024 - Finally, we have accepted 7 papers. They are available at https://dl.acm.org/doi/proceedings/10.1145/3689095 
 - 15/8/2024 - Challenge Open-source Code (https://github.com/wtyhub/UAVM2024).
 - 23/4/2024 - Challenge Platform is now available.
 - 23/4/2024 - Paper submission site is now available.
