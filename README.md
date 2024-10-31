@@ -44,7 +44,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 ## Workshop Schedule (GMT+11, 1/11/2024) 
 
- 9:30~10:30am Invited Talk from Prof. Julian Kooi (Last 10 minutes will be QA)
+ 9:30~10:30am Invited Talk from Prof. Julian Kooij (Last 10 minutes will be QA)
 
  10:30~11:30am Invited Talk from Prof. Javen Qinfeng Shi (Last 10 minutes will be QA)
  
@@ -63,7 +63,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 |  [Julian Kooij](https://jkooij.github.io/), TU Delft | [Javen Qinfeng Shi](https://cs.adelaide.edu.au/~javen/), University of Adelaide |  
 
 
-**Talk: Vehicle localization without SLAM: Finding your camera’s pose in an aerial image** ([Julian Kooi](https://jkooij.github.io/))
+**Talk: Vehicle localization without SLAM: Finding your camera’s pose in an aerial image** ([Julian Kooij](https://jkooij.github.io/))
  
 Abstract: Accurately locating a robotic vehicle with respect to a map is a key requirement for highly automated driving. While GNSS can provide precise positional information, it is often unreliable and inaccurate in urban environments where buildings block satellite reception (“urban canyons”). This talk discusses a vision-based alternative to determine the pose of a vehicle directly from its camera images. Ideally, such localization can improve the rough localization estimates from GNSS in a manner that accurately scales to large areas without the need for expensive Visual-SLAM. Instead, the emerging field of “fine-grained cross-view localization” develops methods that compare the vehicle’s camera images to easily obtained aerial imagery to estimate its location and viewing direction. I will discuss two deep learning techniques that we proposed for this task: Convolution Cross-View Pose Estimation (T-PAMI’23) and SliceMatch (CVPR’23). These supervised techniques rely on labelled training data, i.e. camera images with known highly accurate pose information, but this can be hard to obtain exactly because GNSS is often unreliable. Our most recent work aims to address this limitation by unsupervised adaptation of an already trained cross-view localization method to the images from a new area, only requiring that their location information is sufficient to pick the correct aerial image patch rather than defining the exact vehicle pose (ECCV’24).
 
