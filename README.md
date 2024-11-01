@@ -34,7 +34,11 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 [[Proceeding Workshop Papers]](https://dl.acm.org/doi/proceedings/10.1145/3689095)
 [[Challenge Code Collection]](https://github.com/wtyhub/UAVM2024)
 
+:sunglasses: [[Youtube]](https://youtu.be/sdwq3-s5bbM) 
+[[Bilibili]](https://www.bilibili.com/video/BV15RSdY7Eei/) :sunglasses:
+
 ## News 
+- 2/11/2024 - Video is available at [[Youtube]](https://youtu.be/sdwq3-s5bbM) and [[Bilibili]](https://www.bilibili.com/video/BV15RSdY7Eei/) 
 - 26/10/2024 - Finally, we have accepted 7 papers. They are available at https://dl.acm.org/doi/proceedings/10.1145/3689095 
 - 15/8/2024 - Challenge Open-source Code (https://github.com/wtyhub/UAVM2024).
 - 23/4/2024 - Challenge Platform is now available.
