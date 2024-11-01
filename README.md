@@ -44,9 +44,9 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 ## Workshop Schedule (GMT+11, 1/11/2024) 
 
- 9:30~10:30am Invited Talk from Prof. Julian Kooij (Last 10 minutes will be QA)
+ 9:30~10:30am Invited Talk from Prof. Julian Kooij [[Slides]](https://github.com/layumi/ACMMM2024Workshop-UAV/blob/main/ACMMM24_UAV_jkooij_2024-11-01.pdf)
 
- 10:30~11:30am Invited Talk from Prof. Javen Qinfeng Shi (Last 10 minutes will be QA)
+ 10:30~11:30am Invited Talk from Prof. Javen Qinfeng Shi [[Slides]](https://github.com/layumi/ACMMM2024Workshop-UAV/blob/main/Causal%20AI%20The%20Way%20of%20Change%20ACM%20MM%20Nov%202024.pdf)
  
  11:30~11:45am break
  
