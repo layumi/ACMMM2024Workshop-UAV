@@ -64,6 +64,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 
 **Talk: Vehicle localization without SLAM: Finding your camera’s pose in an aerial image** ([Julian Kooij](https://jkooij.github.io/))
+ [[Slides]](https://github.com/layumi/ACMMM2024Workshop-UAV/blob/main/ACMMM24_UAV_jkooij_2024-11-01.pdf)
  
 Abstract: Accurately locating a robotic vehicle with respect to a map is a key requirement for highly automated driving. While GNSS can provide precise positional information, it is often unreliable and inaccurate in urban environments where buildings block satellite reception (“urban canyons”). This talk discusses a vision-based alternative to determine the pose of a vehicle directly from its camera images. Ideally, such localization can improve the rough localization estimates from GNSS in a manner that accurately scales to large areas without the need for expensive Visual-SLAM. Instead, the emerging field of “fine-grained cross-view localization” develops methods that compare the vehicle’s camera images to easily obtained aerial imagery to estimate its location and viewing direction. I will discuss two deep learning techniques that we proposed for this task: Convolution Cross-View Pose Estimation (T-PAMI’23) and SliceMatch (CVPR’23). These supervised techniques rely on labelled training data, i.e. camera images with known highly accurate pose information, but this can be hard to obtain exactly because GNSS is often unreliable. Our most recent work aims to address this limitation by unsupervised adaptation of an already trained cross-view localization method to the images from a new area, only requiring that their location information is sufficient to pick the correct aerial image patch rather than defining the exact vehicle pose (ECCV’24).
 
@@ -72,6 +73,7 @@ His research interests include computer vision, 3D object detection by vision/li
 
 
 **Talk： Causal AI: The Way of Change in the Age of AI** ([Javen Qinfeng Shi](https://cs.adelaide.edu.au/~javen/))
+[[Slides]](https://github.com/layumi/ACMMM2024Workshop-UAV/blob/main/Causal%20AI%20The%20Way%20of%20Change%20ACM%20MM%20Nov%202024.pdf)
 
 Abstract：Our world is undergoing inevitable and tumultuous changes. Causality, operating beneath the veneer of cause and effect, is essentially the way of change. This talk will show how causal AI can identify the root causes, discover latent variables, build immunity against spurious correlations, improve generalisation to diverse domains and distribution shifts, model the consequence of interventions, and answer What-If counterfactual questions. More importantly, causal AI holds the key to answer the reverse question: What is the ideal sequence of interventions, given resources or budgets, to optimise future outcomes? Join us for an exploration of the transformative role of Causal AI in understanding and navigating the complexities of a rapidly changing world in the age of AI.
 
